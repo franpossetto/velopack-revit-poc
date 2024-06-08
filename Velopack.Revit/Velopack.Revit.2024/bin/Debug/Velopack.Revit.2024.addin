@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>Velopack.Revit.2024</Name>
+    <FullClassName>Velopack.Revit.Service.ExternalApplication</FullClassName>
+    <Text>Velopack</Text>
+    <Description>Velopack.Revit.2024</Description>
+    <VisibilityMode>AlwaysVisible</VisibilityMode>
+    <Assembly>Velopack.Revit.2024.dll</Assembly>
+    <AddInId>
+      5a1caa27-9f6a-44dc-afca-15f6df3c1c23
+    </AddInId>
+	  <VendorId>Velopack</VendorId>
+	  <VendorDescription>Velopack</VendorDescription>
+    </AddIn>
+  </RevitAddIns>

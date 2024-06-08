@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Velopack.Backend.Installer", "Velopack.Backend.Installer\Velopack.Backend.Installer.csproj", "{540C5F0E-4844-429D-B23D-7BE7F032C4C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Velopack.Revit.2023", "Velopack.Revit.2023\Velopack.Revit.2023.csproj", "{BF8424A2-09FD-4312-B6EC-BA8D3A99BED1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Velopack.Revit.2024", "Velopack.Revit.2024\Velopack.Revit.2024.csproj", "{9A9C8D11-3B1A-452D-91D0-B399BF00E7BA}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "Velopack.Revit.Service", "Velopack.Revit.Service\Velopack.Revit.Service.shproj", "{96BC75D6-CF1C-4778-BF2A-8B2EC736133A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{540C5F0E-4844-429D-B23D-7BE7F032C4C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{540C5F0E-4844-429D-B23D-7BE7F032C4C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{540C5F0E-4844-429D-B23D-7BE7F032C4C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{540C5F0E-4844-429D-B23D-7BE7F032C4C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF8424A2-09FD-4312-B6EC-BA8D3A99BED1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF8424A2-09FD-4312-B6EC-BA8D3A99BED1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF8424A2-09FD-4312-B6EC-BA8D3A99BED1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF8424A2-09FD-4312-B6EC-BA8D3A99BED1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A9C8D11-3B1A-452D-91D0-B399BF00E7BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A9C8D11-3B1A-452D-91D0-B399BF00E7BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A9C8D11-3B1A-452D-91D0-B399BF00E7BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A9C8D11-3B1A-452D-91D0-B399BF00E7BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ADAB15AE-D312-4D49-99E9-56BD7FE19783}
+	EndGlobalSection
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		Velopack.Revit.Service\Velopack.Revit.Service.projitems*{96bc75d6-cf1c-4778-bf2a-8b2ec736133a}*SharedItemsImports = 13
+		Velopack.Revit.Service\Velopack.Revit.Service.projitems*{9a9c8d11-3b1a-452d-91d0-b399bf00e7ba}*SharedItemsImports = 4
+		Velopack.Revit.Service\Velopack.Revit.Service.projitems*{bf8424a2-09fd-4312-b6ec-ba8d3a99bed1}*SharedItemsImports = 4
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,14 @@
+C:\Users\franc\source\repos\Velopack.Revit\Velopack.Backend.Installer\bin\Release\Velopack.Backend.Installer.dll
+C:\Users\franc\source\repos\Velopack.Revit\Velopack.Backend.Installer\bin\Release\Velopack.Backend.Installer.pdb
+C:\Users\franc\source\repos\Velopack.Revit\Velopack.Backend.Installer\bin\Release\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\franc\source\repos\Velopack.Revit\Velopack.Backend.Installer\bin\Release\Newtonsoft.Json.dll
+C:\Users\franc\source\repos\Velopack.Revit\Velopack.Backend.Installer\bin\Release\NuGet.Versioning.dll
+C:\Users\franc\source\repos\Velopack.Revit\Velopack.Backend.Installer\bin\Release\Velopack.dll
+C:\Users\franc\source\repos\Velopack.Revit\Velopack.Backend.Installer\bin\Release\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\franc\source\repos\Velopack.Revit\Velopack.Backend.Installer\bin\Release\Newtonsoft.Json.xml
+C:\Users\franc\source\repos\Velopack.Revit\Velopack.Backend.Installer\bin\Release\Velopack.xml
+C:\Users\franc\source\repos\Velopack.Revit\Velopack.Backend.Installer\obj\Release\Velopack.Backend.Installer.csproj.AssemblyReference.cache
+C:\Users\franc\source\repos\Velopack.Revit\Velopack.Backend.Installer\obj\Release\Velopack.Backend.Installer.csproj.CoreCompileInputs.cache
+C:\Users\franc\source\repos\Velopack.Revit\Velopack.Backend.Installer\obj\Release\Velopack.Backend.Installer.csproj.CopyComplete
+C:\Users\franc\source\repos\Velopack.Revit\Velopack.Backend.Installer\obj\Release\Velopack.Backend.Installer.dll
+C:\Users\franc\source\repos\Velopack.Revit\Velopack.Backend.Installer\obj\Release\Velopack.Backend.Installer.pdb

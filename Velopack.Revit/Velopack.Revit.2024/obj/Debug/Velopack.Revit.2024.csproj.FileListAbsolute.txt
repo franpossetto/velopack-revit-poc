@@ -1,0 +1,17 @@
+C:\Users\franc\source\repos\Velopack.Revit\Velopack.Revit.2024\bin\Debug\Velopack.Revit.2024.addin
+C:\Users\franc\source\repos\Velopack.Revit\Velopack.Revit.2024\bin\Debug\Velopack.Revit.2024.dll
+C:\Users\franc\source\repos\Velopack.Revit\Velopack.Revit.2024\bin\Debug\Velopack.Revit.2024.pdb
+C:\Users\franc\source\repos\Velopack.Revit\Velopack.Revit.2024\obj\Debug\Velopack.Revit.2024.csproj.AssemblyReference.cache
+C:\Users\franc\source\repos\Velopack.Revit\Velopack.Revit.2024\obj\Debug\Velopack.Revit.2024.csproj.CoreCompileInputs.cache
+C:\Users\franc\source\repos\Velopack.Revit\Velopack.Revit.2024\obj\Debug\Velopack.Revit.2024.dll
+C:\Users\franc\source\repos\Velopack.Revit\Velopack.Revit.2024\obj\Debug\Velopack.Revit.2024.pdb
+C:\Users\franc\source\repos\Velopack.Revit\Velopack.Revit.2024\bin\Debug\Velopack.Backend.Installer.dll
+C:\Users\franc\source\repos\Velopack.Revit\Velopack.Revit.2024\bin\Debug\Velopack.dll
+C:\Users\franc\source\repos\Velopack.Revit\Velopack.Revit.2024\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\franc\source\repos\Velopack.Revit\Velopack.Revit.2024\bin\Debug\NuGet.Versioning.dll
+C:\Users\franc\source\repos\Velopack.Revit\Velopack.Revit.2024\bin\Debug\Newtonsoft.Json.dll
+C:\Users\franc\source\repos\Velopack.Revit\Velopack.Revit.2024\bin\Debug\Velopack.Backend.Installer.pdb
+C:\Users\franc\source\repos\Velopack.Revit\Velopack.Revit.2024\bin\Debug\Velopack.xml
+C:\Users\franc\source\repos\Velopack.Revit\Velopack.Revit.2024\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\franc\source\repos\Velopack.Revit\Velopack.Revit.2024\bin\Debug\Newtonsoft.Json.xml
+C:\Users\franc\source\repos\Velopack.Revit\Velopack.Revit.2024\obj\Debug\Velopack.Revit.2024.csproj.CopyComplete

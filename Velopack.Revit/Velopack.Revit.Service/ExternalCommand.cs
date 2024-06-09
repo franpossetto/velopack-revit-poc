@@ -18,11 +18,10 @@ namespace Velopack.Revit.Service
                 Document doc = commandData.Application.ActiveUIDocument.Document;
                 UIDocument uidoc = commandData.Application.ActiveUIDocument;
 
-                TaskDialog.Show("Version", "1");
-                Task.Run(async () =>
-                {
-                    await Backend.Installer.Velopack.UpdateMyApp();
-                }).GetAwaiter().GetResult();
+                TaskDialog.Show("Version", "This version was just written");
+             
+                Velopack.Backend.Installer.Velopack.UpdateMyApp().Wait();
+
                 
                 return Autodesk.Revit.UI.Result.Succeeded;
             }
